@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.exe
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.deps.json
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.runtimeconfig.json
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.dll
+C:\Users\lenovo\source\repos\Trello\Trello\bin\Debug\netcoreapp3.1\Trello.pdb
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.dll
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.pdb
+C:\Users\lenovo\source\repos\Trello\Trello\obj\Debug\netcoreapp3.1\Trello.genruntimeconfig.cache
